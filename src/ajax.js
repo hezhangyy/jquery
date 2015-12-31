@@ -846,6 +846,6 @@ jQuery.each( [ "get", "post" ], function( i, method ) {
 		}, jQuery.isPlainObject( url ) && url ) );
 	};
 } );
-
+//  我发现达里有bug
 return jQuery;
 } );
